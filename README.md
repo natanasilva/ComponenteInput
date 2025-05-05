@@ -40,8 +40,8 @@ Este projeto demonstra como criar um componente reutilizável de campo de formul
 
 ## 🧩 Estrutura do Projeto
 
-- `components/CustomInput.js`: Componente de input reutilizável com suporte a `label`, `placeholder` e entrada segura para senhas.
-- `App.js`: Tela principal que utiliza o componente `CustomInput` para demonstrar seu uso.
+- `components/Inputs.js`: Componente de input reutilizável com suporte a `label`, `placeholder` e entrada segura para senhas.
+- `App.js`: Tela principal que utiliza o componente `Inputs` para demonstrar seu uso.
 
 ## 📄 Licença
 
