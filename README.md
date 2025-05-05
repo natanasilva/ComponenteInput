@@ -33,7 +33,7 @@ Este projeto demonstra como criar um componente reutilizável de campo de formul
 4. Inicie o projeto:
 
    ```bash
-   npm start
+   npx expo start
    # ou
    yarn start
    ```
